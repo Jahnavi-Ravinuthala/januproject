@@ -36,6 +36,9 @@ The system provides the following functionalities:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/atm-interface.git
+
+---
+
 ## Simple Run
 
 ===== Welcome to ATM =====
@@ -47,7 +50,9 @@ Enter your PIN: 1234
 3. Withdraw
 4. Exit
 
-🔮 Future Enhancements
+---
+
+## 🔮 Future Enhancements
 
 1. Multiple user accounts with different PINs
 2. Transaction history tracking
